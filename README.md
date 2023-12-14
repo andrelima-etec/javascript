@@ -10,8 +10,8 @@ Exemplos de **variáveis**, *constantes*, ~~estrutura de decisões~~ e _**laços
 
 ⚡ Isto vai ficar top. ⚡
 
-### Tópicos realizados
-- [x] Tarefa 1
-- [ ] Tarefa 2
-- [ ] Tarefa 3
+### Laços de Repetições
+- [x] For
+- [ ] While
+- [ ] Foreach
 - [ ] \(Se iniciar com parênteses tem que escapar)
