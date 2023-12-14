@@ -1,7 +1,7 @@
 # JavaScript
 
 ## Aula 1
-Exemplos de variáveis, constantes, estrutura de decisões e laços de repetições.
+Exemplos de **variáveis**, *constantes*, ~~estrutura de decisões~~ e _**laços de repetições**_.
 
 ### Variáveis e constantes
 - var
