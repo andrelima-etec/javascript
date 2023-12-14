@@ -11,5 +11,5 @@ Exemplos de variáveis, constantes, estrutura de decisões e laços de repetiç�
 ⚡ Isto vai ficar top. ⚡
 
 ### Tópicos realizados
-[x] Declaração de variáveis
-[] Teste do laço de repetição
+- [x] Declaração de variáveis
+- [] Teste do laço de repetição
